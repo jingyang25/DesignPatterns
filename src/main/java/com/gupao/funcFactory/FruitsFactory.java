@@ -1,9 +1,12 @@
 package com.gupao.funcFactory;
 
-public class FruitsFactory implements Food {
-    @Override
-    public void eat() {
+public class FruitsFactory implements Factory {
 
-        System.out.println("eat Fruits");
+
+
+
+    @Override
+    public Food create() {
+        return  new Fruits();
     }
 }
