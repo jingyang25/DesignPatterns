@@ -11,6 +11,10 @@
     <modules>
         <module>Factory</module>
         <module>Singleton</module>
+        <module>Prototype</module>
+        <module>proxy</module>
+        <module>Delegate</module>
+        <module>strategy</module>
     </modules>
 
     <name>com.yang</name>
