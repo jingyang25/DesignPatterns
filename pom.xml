@@ -15,6 +15,9 @@
         <module>proxy</module>
         <module>Delegate</module>
         <module>strategy</module>
+        <module>template</module>
+        <module>adapter</module>
+        <module>decorator</module>
     </modules>
 
     <name>com.yang</name>
